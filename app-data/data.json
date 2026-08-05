@@ -1,5 +1,5 @@
 [
-  { "title": "App Finder", "category": "Tools", "size": "4.3 MB", "iconBg": "#dceefb", "desc": "Fetch data directly from the Play Store and browse apps without any Google ads." },
+  { "title": "Aurora Store Nightly", "category": "Tools", "size": "9.86 MB", "iconBg": "#dceefb", "desc": "Fetch data directly from the Play Store and browse/install apps without any Google PlayStore." },
   { "title": "Pydroid Repository Plugin", "category": "Development", "size": "2.1 MB", "iconBg": "#fde8e3", "desc": "Plugin for Pydroid 3 that adds repository support for Python packages." },
   { "title": "Self Attendance", "category": "Tools", "size": "3.8 MB", "iconBg": "#e2f2eb", "desc": "Track and manage your attendance records easily." },
   { "title": "Kanade", "category": "Tools", "size": "1.2 MB", "iconBg": "#fef7e3", "desc": "An offline APK extractor that doesn't collect any data." },
